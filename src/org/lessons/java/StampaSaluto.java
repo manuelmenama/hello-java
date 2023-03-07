@@ -5,6 +5,7 @@ public class StampaSaluto {
         System.out.println("Hello world!");
         System.out.println("Hello!");
         System.out.println("!");
+        System.out.println("By Manuel");
 
     }
 }
